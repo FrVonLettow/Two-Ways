@@ -5,5 +5,8 @@ package
 		public function Background()
 		{
 		}
+		public function test():void
+		{
+		}
 	}
 }
